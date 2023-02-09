@@ -1,6 +1,6 @@
 # To Do List
 
-An Android schedualing application built for CS 233 - Intro to Java course.
+An Android schedualing application built for CPSC 233 - Intro to Java course.
 
 # What I Learned
 
